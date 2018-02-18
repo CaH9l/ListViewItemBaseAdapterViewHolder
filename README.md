@@ -1,0 +1,2 @@
+# ListViewItemBaseAdapterViewHolder
+Тест адаптера
